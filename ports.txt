@@ -17,6 +17,6 @@
  NTP			123		             TCP and UDP
  NetBIOS	135-139            TCP and UDP
  IMAP4		143                TCP and UDP
- HTTPS		443                TCP and UDP
+ HTTPS		443                
  RDP			3389
 ------------------------------------------------------------------------------
