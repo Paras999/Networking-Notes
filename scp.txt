@@ -1,0 +1,18 @@
+SCP (Secure Copy)
+This commands helps us to securely transfer the files to remote host. It is secured because of ssh.
+
+Syntax:  scp [-options] [LOCAL FILE PATH] username@IP:[Destination Address]
+
+
+commonly used options:
+
+-v : to get the detailed version of whats going on behind copying.
+
+-p : it adds the time details
+
+-C : uses comprssion to copy large files to the remote destination
+
+-P : gives an alternate port to perfrom the operation through. Defalt is 22.
+
+-r : if you want to copy any non-empty directory to the remote.
+
