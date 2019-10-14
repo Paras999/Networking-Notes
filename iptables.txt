@@ -27,3 +27,8 @@ Append -m comment --coment "---YOUR COMMENT---" to your rule command.
 command:
 $ sudo ipatbles -A INPUT -s 192.68.10.0/24 -j DROP -m comment --comment
 " This rule willl block all ip's under this network"
+<<<<<<< HEAD
+=======
+
+Running this command will append a comment to the end of the rule
+>>>>>>> feature1
