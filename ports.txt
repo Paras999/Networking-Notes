@@ -2,7 +2,7 @@
 
 
  PROTOCOL 		PORT		Transport Protocol
- 
+
  FTP			20,21           TCP
  SSH			22		TCP and UDP
  TELNET			23		TCP
@@ -17,4 +17,5 @@
  NTP			123		TCP and UDP
  NetBIOS		135-139         TCP and UDP
  IMAP4			143		TCP and UDP
- RDP			3389		
+ RDP			3389
+------------------------------------------------------------------------------

@@ -2,3 +2,7 @@ netcat command
 
 
 netcat command is  very userful command which is known as army sniff tool knife.
+
+
+1. listening on ports:
+nc -nlv [port no]
