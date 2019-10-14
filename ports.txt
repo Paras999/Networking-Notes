@@ -1,22 +1,22 @@
  Commonly used protocols and their Port Numbers
 
 
- PROTOCOL 		PORT		Transport Protocol
+ PROTOCOL 		PORT		   Transport Protocol
 
- FTP			20,21              TCP
- SSH			22		             TCP and UDP
- TELNET		23		             TCP
- SMTP			25		             TCP
- IPSec		50,51		            -
- DNS 			53		             TCP and UDP
- DHCP			67,68	             UDP
- TFTP			69		             UDP
- HTTP			80		             TCP
- POP3 		110 		           TCP
- NNTP			119		             TCP
- NTP			123		             TCP and UDP
- NetBIOS	135-139            TCP and UDP
- IMAP4		143                TCP and UDP
- HTTPS		443                
- RDP			3389
+ FTP			     20,21              TCP
+ SSH			     22		               TCP and UDP
+ TELNET		   23		               TCP
+ SMTP			    25		               TCP
+ IPSec		    50,51		            -
+ DNS 			    53		              TCP and UDP
+ DHCP			    67,68	            UDP
+ TFTP			    69		              UDP
+ HTTP			    80		              TCP
+ POP3 		    110 		            TCP
+ NNTP			    119		             TCP
+ NTP			     123		             TCP and UDP
+ NetBIOS	   135-139           TCP and UDP
+ IMAP4		    143               TCP and UDP
+ HTTPS		    443               TCP and UDP 
+ RDP			     3389
 ------------------------------------------------------------------------------
