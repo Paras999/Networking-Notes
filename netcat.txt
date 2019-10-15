@@ -5,4 +5,21 @@ netcat command is  very userful command which is known as army sniff tool knife.
 
 
 1. listening on ports:
-nc -nlv [port no]
+nc -vl [port no]
+
+2 connecting from host
+nc -nv remote_ip port_number
+
+
+Ex:
+
+on remote side listen up to the connection on any port number
+
+command : $ nc -vl 13000
+
+on clinet side:
+connect to the remote using its ip adn common port both
+
+command: $ nc  -nv 10.11.15.20 13000
+
+
