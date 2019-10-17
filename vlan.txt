@@ -1,0 +1,4 @@
+					VLAN(Virtual Local Area Network)
+
+
+VLANs are used to improve the overall performance of the network by grouping of devices on different network(LAN) to form a subnetwork. Through this we can logically seperate our networks.
