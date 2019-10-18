@@ -1,0 +1,6 @@
+This is a simple demo of how to use "make"  command.
+In this makeDemo dir created two C files hello.c and world.c And now the main
+objective is to create a make file which can compile all the source code of the
+respective files and convert it  into a single exexutable with name "hw".
+When u run make command by default it will execute "all" option available in make file.
+Another option is to clean all the object(.o) and executable files in the cureent directory.
