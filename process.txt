@@ -34,3 +34,8 @@ bg [jobnum]
 bring process to foreground:
 fg
 fg [jobnum]
+
+
+
+Want to learn more follow this link :
+https://www.tldp.org/LDP/sag/html/major-services.html#INIT
